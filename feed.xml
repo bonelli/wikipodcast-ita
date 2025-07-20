@@ -7,17 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
-      <url>https://archive.org/download/wikipodcast_Wikipodcastitaliano_image_20250720172542/Wikipodcast italiano_image.jpg</url>
+      <url>https://archive.org/download/wikipodcast_Wikipodcastitaliano_image_20250720173851/Wikipodcast italiano_image.jpg</url>
       <title>Wikipodcast italiano</title>
       <link>https://podcasters.spotify.com/pod/show/wikipodcastita</link>
     </image>
     <language>it</language>
-    <lastBuildDate>Sun, 20 Jul 2025 17:29:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 17:40:25 +0000</lastBuildDate>
     <item>
       <title>Gubbio</title>
       <description>&lt;p&gt;Gubbio raccontata da Wikipedia&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https://it.wikipedia.org/wiki/Gubbio&lt;/p&gt;</description>
       <guid isPermaLink="false">0c39b95e-89f2-4975-8805-6396febfb1bc</guid>
-      <enclosure url="https://archive.org/download/wikipodcast_0c39b95e_89f2_4975_8805_6396febfb1bc_20250720172742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-19%2Fbc86ffed-7724-538a-7c70-4cc4d98065f3.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/wikipodcast_0c39b95e_89f2_4975_8805_6396febfb1bc_20250720174001/bc86ffed-7724-538a-7c70-4cc4d98065f3.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 16 Jul 2025 17:55:30 +0000</pubDate>
       <itunes:duration>00:22:25</itunes:duration>
     </item>
@@ -25,7 +25,7 @@
       <title>Mercatello sul Metauro</title>
       <description>&lt;p&gt;Mercatello sul Metauro, un piccolo centro delle Marche che, con i suoi poco più di mille abitanti, custodisce secoli di storia e tesori d’arte poco conosciuti.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https://it.wikipedia.org/wiki/Mercatello_sul_Metauro&lt;/p&gt;</description>
       <guid isPermaLink="false">50783af8-5965-4b55-852f-b8715c24d36c</guid>
-      <enclosure url="https://archive.org/download/wikipodcast_50783af8_5965_4b55_852f_b8715c24d36c_20250720172709/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-17%2F0b843d34-fbf1-a170-62f8-eeb4e8c26df1.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/wikipodcast_50783af8_5965_4b55_852f_b8715c24d36c_20250720173937/0b843d34-fbf1-a170-62f8-eeb4e8c26df1.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 17 Jul 2025 07:36:52 +0000</pubDate>
       <itunes:duration>00:09:03</itunes:duration>
     </item>
@@ -33,7 +33,7 @@
       <title>Nostra Signora del Monte Carmelo</title>
       <description>&lt;p&gt;Oggi ci immergiamo nella storia di un’immagine cara a milioni di fedeli in tutto il mondo: Nostra Signora del Monte Carmelo, o, come la chiamano i Carmelitani, la Beata Vergine del Carmine.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https://it.wikipedia.org/wiki/Nostra_Signora_del_Monte_Carmelo&lt;/p&gt;</description>
       <guid isPermaLink="false">66321807-1415-4da8-ba31-75e99faa204b</guid>
-      <enclosure url="https://archive.org/download/wikipodcast_66321807_1415_4da8_ba31_75e99faa204b_20250720172625/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-17%2Fe86eb4db-8f89-2090-3404-abcbfbbd2d71.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/wikipodcast_66321807_1415_4da8_ba31_75e99faa204b_20250720173914/e86eb4db-8f89-2090-3404-abcbfbbd2d71.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 17 Jul 2025 12:12:17 +0000</pubDate>
       <itunes:duration>00:08:47</itunes:duration>
     </item>
