@@ -12,7 +12,7 @@
       <link>https://podcasters.spotify.com/pod/show/wikipodcastita</link>
     </image>
     <language>it</language>
-    <lastBuildDate>Sun, 20 Jul 2025 19:38:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 19:47:04 +0000</lastBuildDate>
     <managingEditor>federico.bonelli@res-it.com</managingEditor>
     <webMaster>federico.bonelli@res-it.com</webMaster>
     <itunes:author>Federico Bonelli</itunes:author>
@@ -23,13 +23,22 @@
       <itunes:email>federico.bonelli@res-it.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>Gubbio</title>
-      <description>&lt;p&gt;Gubbio raccontata da Wikipedia&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https://it.wikipedia.org/wiki/Gubbio&lt;/p&gt;</description>
+      <title>Storia di Rimini</title>
+      <description>&lt;p&gt;Wikipodcast vi porta a Rimini, crocevia di imperi e leggende. Dai primi villaggi preistorici al Rubicone di Cesare, dalle corti malatestiane alle sabbie dei bagni marittimi, scopriremo i segreti che hanno fatto la storia dell’Adriatico.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https://it.wikipedia.org/wiki/Storia_di_Rimini&lt;/p&gt;</description>
       <author>federico.bonelli@res-it.com (Federico Bonelli)</author>
-      <guid isPermaLink="false">0c39b95e-89f2-4975-8805-6396febfb1bc</guid>
-      <enclosure url="https://archive.org/download/wikipodcast_0c39b95e_89f2_4975_8805_6396febfb1bc_20250720184550/bc86ffed-7724-538a-7c70-4cc4d98065f3.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 16 Jul 2025 17:55:30 +0000</pubDate>
-      <itunes:duration>00:22:25</itunes:duration>
+      <guid isPermaLink="false">59420103-f302-5920-89fa-50e08f506f76</guid>
+      <enclosure url="https://archive.org/download/wikipodcast_59420103_f302_5920_89fa_50e08f506f76_20250720194635/Storia_di_Rimini_podcast.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Jul 2025 19:46:34 +0000</pubDate>
+      <itunes:duration>00:13:42</itunes:duration>
+    </item>
+    <item>
+      <title>Nostra Signora del Monte Carmelo</title>
+      <description>&lt;p&gt;Benvenuti a Wikipodcast! Dal miracolo della nube di Elia alla nascita dell’Ordine Carmelitano, fino al sacramentale scapolare, questo episodio svela come un “giardino sul mare” abbia incrociato profezia, preghiera e devozione mariana.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https://it.wikipedia.org/wiki/Nostra_Signora_del_Monte_Carmelo&lt;/p&gt;</description>
+      <author>federico.bonelli@res-it.com (Federico Bonelli)</author>
+      <guid isPermaLink="false">66321807-1415-4da8-ba31-75e99faa204b</guid>
+      <enclosure url="https://archive.org/download/wikipodcast_66321807_1415_4da8_ba31_75e99faa204b_20250720193730/Nostra_Signora_del_Monte_Carmelo_podcast.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Jul 2025 12:12:17 +0000</pubDate>
+      <itunes:duration>00:16:53</itunes:duration>
     </item>
     <item>
       <title>Mercatello sul Metauro</title>
@@ -41,13 +50,13 @@
       <itunes:duration>00:04:54</itunes:duration>
     </item>
     <item>
-      <title>Nostra Signora del Monte Carmelo</title>
-      <description>&lt;p&gt;Benvenuti a Wikipodcast! Dal miracolo della nube di Elia alla nascita dell’Ordine Carmelitano, fino al sacramentale scapolare, questo episodio svela come un “giardino sul mare” abbia incrociato profezia, preghiera e devozione mariana.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https://it.wikipedia.org/wiki/Nostra_Signora_del_Monte_Carmelo&lt;/p&gt;</description>
+      <title>Gubbio</title>
+      <description>&lt;p&gt;Gubbio raccontata da Wikipedia&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https://it.wikipedia.org/wiki/Gubbio&lt;/p&gt;</description>
       <author>federico.bonelli@res-it.com (Federico Bonelli)</author>
-      <guid isPermaLink="false">66321807-1415-4da8-ba31-75e99faa204b</guid>
-      <enclosure url="https://archive.org/download/wikipodcast_66321807_1415_4da8_ba31_75e99faa204b_20250720193730/Nostra_Signora_del_Monte_Carmelo_podcast.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 17 Jul 2025 12:12:17 +0000</pubDate>
-      <itunes:duration>00:16:53</itunes:duration>
+      <guid isPermaLink="false">0c39b95e-89f2-4975-8805-6396febfb1bc</guid>
+      <enclosure url="https://archive.org/download/wikipodcast_0c39b95e_89f2_4975_8805_6396febfb1bc_20250720184550/bc86ffed-7724-538a-7c70-4cc4d98065f3.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Jul 2025 17:55:30 +0000</pubDate>
+      <itunes:duration>00:22:25</itunes:duration>
     </item>
   </channel>
 </rss>
