@@ -12,7 +12,7 @@
       <link>https://podcasters.spotify.com/pod/show/wikipodcastita</link>
     </image>
     <language>it</language>
-    <lastBuildDate>Tue, 22 Jul 2025 11:29:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 12:08:52 +0000</lastBuildDate>
     <managingEditor>federico.bonelli@res-it.com</managingEditor>
     <webMaster>federico.bonelli@res-it.com</webMaster>
     <itunes:author>Federico Bonelli</itunes:author>
@@ -23,22 +23,22 @@
       <itunes:email>federico.bonelli@res-it.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>Gubbio</title>
-      <description>&lt;p&gt;Gubbio raccontata da Wikipedia&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https://it.wikipedia.org/wiki/Gubbio&lt;/p&gt;</description>
+      <title>Storia di Livorno</title>
+      <description>&lt;p&gt;In questo episodio di Wikipodcast, Storia di Livorno, esploriamo le radici della città: dalle tracce preistoriche ai Medici, tra assedi, scambi marittimi e rinascite urbane. Preparatevi a scoprire come Livorno è diventata crocevia di popoli, commerci e idee rivoluzionarie.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https://it.wikipedia.org/wiki/Storia_di_Livorno&lt;/p&gt;</description>
       <author>federico.bonelli@res-it.com (Federico Bonelli)</author>
-      <guid isPermaLink="false">0c39b95e-89f2-4975-8805-6396febfb1bc</guid>
-      <enclosure url="https://archive.org/download/wikipodcast_0c39b95e_89f2_4975_8805_6396febfb1bc_20250720184550/bc86ffed-7724-538a-7c70-4cc4d98065f3.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 16 Jul 2025 17:55:30 +0000</pubDate>
-      <itunes:duration>00:22:25</itunes:duration>
+      <guid isPermaLink="false">f18968b3-9f0f-5c49-8d59-03d381ef14e7</guid>
+      <enclosure url="https://archive.org/download/wikipodcast_f18968b3_9f0f_5c49_8d59_03d381ef14e7_20250722120828/Storia_di_Livorno_podcast.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Jul 2025 12:08:27 +0000</pubDate>
+      <itunes:duration>00:19:18</itunes:duration>
     </item>
     <item>
-      <title>Mercatello sul Metauro</title>
-      <description>&lt;p&gt;Benvenuti a Wikipodcast: oggi esploriamo Mercatello sul Metauro, borgo medievale dove mura longobarde, palazzi rinascimentali e antiche fiere raccontano un viaggio tra fede, mercati storici e arte sacra. Pronti a scoprire i suoi segreti?&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https://it.wikipedia.org/wiki/Mercatello_sul_Metauro&lt;/p&gt;</description>
+      <title>Storia di Rimini</title>
+      <description>&lt;p&gt;Su Wikipodcast esploriamo Rimini: dai primi cacciatori-paleolitici ai fasti imperiali, tra tumuli villanoviani, vie consolari e rinascimenti malatestiani. Un viaggio nel tempo per scoprire come un avamposto romano è diventato crocevia di arte e storia.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https://it.wikipedia.org/wiki/Storia_di_Rimini&lt;/p&gt;</description>
       <author>federico.bonelli@res-it.com (Federico Bonelli)</author>
-      <guid isPermaLink="false">50783af8-5965-4b55-852f-b8715c24d36c</guid>
-      <enclosure url="https://archive.org/download/wikipodcast_50783af8_5965_4b55_852f_b8715c24d36c_20250722111956/Mercatello_sul_Metauro_podcast.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 17 Jul 2025 07:36:52 +0000</pubDate>
-      <itunes:duration>00:03:48</itunes:duration>
+      <guid isPermaLink="false">59420103-f302-5920-89fa-50e08f506f76</guid>
+      <enclosure url="https://archive.org/download/wikipodcast_59420103_f302_5920_89fa_50e08f506f76_20250722112852/Storia_di_Rimini_podcast.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Jul 2025 19:46:34 +0000</pubDate>
+      <itunes:duration>00:14:00</itunes:duration>
     </item>
     <item>
       <title>Nostra Signora del Monte Carmelo</title>
@@ -50,13 +50,22 @@
       <itunes:duration>00:16:53</itunes:duration>
     </item>
     <item>
-      <title>Storia di Rimini</title>
-      <description>&lt;p&gt;Su Wikipodcast esploriamo Rimini: dai primi cacciatori-paleolitici ai fasti imperiali, tra tumuli villanoviani, vie consolari e rinascimenti malatestiani. Un viaggio nel tempo per scoprire come un avamposto romano è diventato crocevia di arte e storia.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https://it.wikipedia.org/wiki/Storia_di_Rimini&lt;/p&gt;</description>
+      <title>Mercatello sul Metauro</title>
+      <description>&lt;p&gt;Benvenuti a Wikipodcast: oggi esploriamo Mercatello sul Metauro, borgo medievale dove mura longobarde, palazzi rinascimentali e antiche fiere raccontano un viaggio tra fede, mercati storici e arte sacra. Pronti a scoprire i suoi segreti?&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https://it.wikipedia.org/wiki/Mercatello_sul_Metauro&lt;/p&gt;</description>
       <author>federico.bonelli@res-it.com (Federico Bonelli)</author>
-      <guid isPermaLink="false">59420103-f302-5920-89fa-50e08f506f76</guid>
-      <enclosure url="https://archive.org/download/wikipodcast_59420103_f302_5920_89fa_50e08f506f76_20250722112852/Storia_di_Rimini_podcast.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 20 Jul 2025 19:46:34 +0000</pubDate>
-      <itunes:duration>00:14:00</itunes:duration>
+      <guid isPermaLink="false">50783af8-5965-4b55-852f-b8715c24d36c</guid>
+      <enclosure url="https://archive.org/download/wikipodcast_50783af8_5965_4b55_852f_b8715c24d36c_20250722111956/Mercatello_sul_Metauro_podcast.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Jul 2025 07:36:52 +0000</pubDate>
+      <itunes:duration>00:03:48</itunes:duration>
+    </item>
+    <item>
+      <title>Gubbio</title>
+      <description>&lt;p&gt;Gubbio raccontata da Wikipedia&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https://it.wikipedia.org/wiki/Gubbio&lt;/p&gt;</description>
+      <author>federico.bonelli@res-it.com (Federico Bonelli)</author>
+      <guid isPermaLink="false">0c39b95e-89f2-4975-8805-6396febfb1bc</guid>
+      <enclosure url="https://archive.org/download/wikipodcast_0c39b95e_89f2_4975_8805_6396febfb1bc_20250720184550/bc86ffed-7724-538a-7c70-4cc4d98065f3.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Jul 2025 17:55:30 +0000</pubDate>
+      <itunes:duration>00:22:25</itunes:duration>
     </item>
   </channel>
 </rss>
