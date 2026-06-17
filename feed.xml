@@ -971,5 +971,14 @@ Modifica&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https
       <itunes:subtitle>Speciale WikiPodcast sui Chuck Norris facts</itunes:subtitle>
       <itunes:summary>Una sequenza di Chuck Norris facts letti uno dopo l'altro, senza spiegazioni.</itunes:summary>
     </item>
+    <item>
+      <title>Storia della Liguria</title>
+      <description>&lt;p&gt;Una regione sottile, stretta tra montagne e mare, può diventare una potenza? La Liguria ci racconta proprio questo: passaggi contesi, porti strategici, repubbliche, rivolte e commerci che hanno trasformato pochi chilometri di costa in un crocevia della storia mediterranea.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https://it.wikipedia.org/wiki/Storia_della_Liguria&lt;/p&gt;</description>
+      <author>federico.bonelli@res-it.com (Federico Bonelli)</author>
+      <guid isPermaLink="false">2fe6fccc-38d3-563b-847c-f2db5a5d63b1</guid>
+      <enclosure url="https://archive.org/download/wikipodcast_2fe6fccc_38d3_563b_847c_f2db5a5d63b1_20260616113340/Storia_della_Liguria_podcast.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jun 2026 11:34:06 +0000</pubDate>
+      <itunes:duration>00:16:57</itunes:duration>
+    </item>
   </channel>
 </rss>
