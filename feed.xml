@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Wikipodcast italiano</title>
@@ -36,9 +36,9 @@
       <description>&lt;p&gt;Marte ci ha raccontato storie diverse a seconda di come lo guardavamo. Ma che cosa succede quando le immagini smentiscono le nostre certezze? Tra errori affascinanti e scoperte sorprendenti, seguiamo gli indizi che hanno cambiato il nostro sguardo sul pianeta rosso.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https://it.wikipedia.org/wiki/Marte_(astronomia)&lt;/p&gt;</description>
       <author>federico.bonelli@res-it.com (Federico Bonelli)</author>
       <guid isPermaLink="false">bae868e3-5999-5fc6-8c94-c406f6a0756f</guid>
-      <enclosure url="https://archive.org/download/wikipodcast_bae868e3_5999_5fc6_8c94_c406f6a0756f_20260924082301/Marte_astronomia_podcast.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/wikipodcast_bae868e3_5999_5fc6_8c94_c406f6a0756f_20261002054136/Marte_astronomia_lora.mp3" length="52392429" type="audio/mpeg"/>
       <pubDate>Thu, 24 Sep 2026 08:23:01 +0000</pubDate>
-      <itunes:duration>00:36:09</itunes:duration>
+      <itunes:duration>36:23</itunes:duration>
     </item>
     <item>
       <title>Katsushika Hokusai</title>
