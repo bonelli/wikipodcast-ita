@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Wikipodcast italiano</title>
@@ -1234,9 +1234,9 @@ Modifica&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https
       <description>&lt;p&gt;Un’onda immensa, un Fuji minuscolo e un artista che non smise mai di reinventarsi. Come trasformò legno, inchiostro e blu di Prussia in un’immagine capace di attraversare continenti e secoli? Entriamo nel mondo inquieto e sorprendente di Katsushika Hokusai.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Fonte originale: https://it.wikipedia.org/wiki/Katsushika_Hokusai&lt;/p&gt;</description>
       <author>federico.bonelli@res-it.com (Federico Bonelli)</author>
       <guid isPermaLink="false">22cdde1e-ca2f-56a6-810f-e1e2eba76958</guid>
-      <enclosure url="https://archive.org/download/wikipodcast_22cdde1e_ca2f_56a6_810f_e1e2eba76958_20260905165126/Katsushika_Hokusai_podcast.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://pub-599a232df2164c2689aeaf275aca5bbd.r2.dev/episodes/22cdde1e-ca2f-56a6-810f-e1e2eba76958/18127b04b77302ccb73f67399fbdedb58f23b2703e761340565be51bf86d2f7d.mp3" length="27778220" type="audio/mpeg"/>
       <pubDate>Sat, 05 Sep 2026 16:51:25 +0000</pubDate>
-      <itunes:duration>00:19:19</itunes:duration>
+      <itunes:duration>19:17</itunes:duration>
     </item>
     <item>
       <title>Marte (astronomia)</title>
